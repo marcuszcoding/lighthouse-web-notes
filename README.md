@@ -1,1 +1,5 @@
 # Marcus Zimmer's Notes
+
+## Summary
+
+This repository contains all of the notes taken by [Marcus Zimmer](https://github.com/marcuszcoding) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp. 
